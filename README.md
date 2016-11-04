@@ -1,5 +1,5 @@
 # hello-world
-My first repo
+Getting started with my first repo
 
 Hi,
 
